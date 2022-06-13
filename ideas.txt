@@ -1,0 +1,14 @@
+PROJECT IDEAS:
+
+1) An app that lets you search up restaurants nearby and add them to a list that will auto pick one from that last and show you
+all the information (Directions, address, phone, etc)
+
+2) An app that behaves like spotify or soundcloud, allowing you to make a playlist and add music
+to that playlist and play them back
+
+3) An app that behaves like Amazon, or any other online retailer where a user can shop for products and add them to a cart
+ 
+4) An app that behaves like Twitter/Facebook, where a user is able to make posts to a social media board
+
+5) A to-do app that allows a user to input activities, homework, work projects, or any other to-do list type items in the order that
+they want to complete them in and displays what activity is to be done first on login
