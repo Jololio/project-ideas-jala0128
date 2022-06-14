@@ -1,0 +1,20 @@
+CAPSTONE MVP 2:
+
+Pitch: An app that behaves like Amazon, or any other online retailer where a user can shop for products and add them to a cart
+
+MVP:
+
+Users can search for items in the store
+
+Users can click on the item and read a short description of the item, and it's relevant information (Price, quantity, etc)
+
+Users can add items to their cart
+
+Users can view their cart and proceed to a checkout
+
+
+Future Features:
+
+Users can login to their own account
+
+Users can create their own account

@@ -1,0 +1,24 @@
+CAPSTONE MVP 1:
+
+Pitch: An app that lets you search up restaurants nearby and add them to a list that will auto pick one from that last and show you
+all the information (Directions, address, phone, etc)
+
+
+MVP:
+
+Users can search for nearby restaurants
+
+Users can add restaurants to their own list of restaurants to choose from
+
+Users can click a button to auto select a restaurant from their list of restaurants
+
+Users will be able to see the restaurants information (Directions, address, phone number, etc)
+
+Users can, once a restaurant has been selected, click on a button to show directions to the restaurant
+
+
+Future Features:
+
+Users can create their own restaurant lists and can select a list to randomly select from
+
+Users can add restaurants to different restaurant lists that they've created
